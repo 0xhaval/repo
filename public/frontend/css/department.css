@@ -1,0 +1,70 @@
+/* Start of Mobile first desgin*/
+.full-header .container .content div h2 {
+  font-size: 55px;
+  font-weight: 400;
+}
+.full-header .container .content img {
+  width: 300px;
+}
+.row {
+  justify-content: center;
+}
+div .card-border,
+.card-body .btn-stages {
+  border: var(--border);
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+img.card-title {
+  width: 100%;
+  height: 175px;
+}
+.card-body.card-btn {
+  padding: 15px 0;
+}
+.card-body .btn-stages {
+  font-size: var(--main-f-size);
+  background: none;
+  color: #fff;
+  width: 100%;
+  padding: 5px;
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+}
+.btn-stages:hover {
+  background-color: var(--bt-color);
+}
+/* End of Mobile first desgin*/
+/* Start Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .width {
+    width: 70%;
+  }
+}
+/* End Small devices (landscape phones, 576px and up) */
+/* Start  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .width {
+    width: 50%;
+  }
+}
+/* End  Medium devices (tablets, 768px and up) */
+/* Start Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .full-header .container .content div h2 {
+    font-size: 80px;
+  }
+  .full-header .container .content img {
+    width: 380px;
+  }
+  .width {
+    width: calc(100% / 2);
+  }
+}
+/* End Large devices (desktops, 992px and up) */

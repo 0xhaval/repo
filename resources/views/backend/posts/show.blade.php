@@ -16,7 +16,7 @@
             <img src="{{ $post->image_path }}" alt="" width="100%">
             <hr class="my-4">
             <h5>Post Description</h5>
-                {{ $post->desc }}
+                {!! $post->desc !!}
         </div>
     </div>
 </div>

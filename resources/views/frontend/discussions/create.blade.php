@@ -1,8 +1,10 @@
 @extends('layouts.app')
 @section('content')
 <div class="container">
+<link rel="stylesheet" href="{{ asset('frontend/css/fourm.css') }}" />
 
 @auth
+<h2 class="my-4">Create a New Discussion</h2>
 <div class="card o-hidden border-0 shadow-lg my-5">
     <div class="card-body p-0">
         <!-- Nested Row within Card Body -->
@@ -30,6 +32,7 @@
                         @endif
                         <div class="form-group row">
                             <div class="col-sm-12 mb-3 mb-sm-0">
+                                <label for="title">Discussion Title</label>
                                 <input type="text" class="form-control" id="exampleFirstName"
                                     placeholder="Title" value="{{ old('title') }}" name="title">
                             </div>
@@ -47,14 +50,15 @@
 
                         <div class="form-group row">
                             <div class="col-sm-12 mb-3 mb-sm-0">
+                                <label for="title">Discussion Description</label>
                                 <textarea name="content" cols="30" rows="10" class="form-control">
                                     Here you write a Post Description
                                   </textarea>
                             </div>
                         </div>
                         <div class="form-group">
-                            <input type="submit" class="form-control  btn btn-primary  btn-block"
-                             value="Add">
+                            <input type="submit" class="form-control bg-primary text-white  btn-block"
+                             value="Create">
                         </div>
                         <hr>
                     </form>

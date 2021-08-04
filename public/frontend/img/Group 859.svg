@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580.791" height="536.006" viewBox="0 0 580.791 536.006">
+  <g id="Group_859" data-name="Group 859" transform="translate(-1180.98 -206.977)">
+    <g id="Group_357" data-name="Group 357" transform="translate(1297.912 220.156)">
+      <path id="Path_1112" data-name="Path 1112" d="M269.607,502.682" transform="translate(125.528 -104.666)" fill="#f2f2f2"/>
+      <path id="Path_1158" data-name="Path 1158" d="M68.348,169.893H462.529V299.3H447.6v33.843L413.754,299.3H68.348Z" transform="translate(1.331 3.308)" fill="#ccc"/>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="372.282" height="103.522" transform="translate(80.628 185.802)" fill="#fff"/>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="179.245" height="5.44" transform="translate(110.565 216.026)" fill="#f9a826"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="312.408" height="5.44" transform="translate(110.565 234.844)" fill="#e6e6e6"/>
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="312.102" height="5.44" transform="translate(110.565 253.661)" fill="#e6e6e6"/>
+      <path id="Path_1159" data-name="Path 1159" d="M394.181,339.785H0v129.4H14.931v33.843l33.843-33.843H394.181Z" transform="translate(0 6.616)" fill="#ccc"/>
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="372.282" height="103.522" transform="translate(10.95 359.003)" fill="#fff"/>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="179.245" height="5.44" transform="translate(43.873 390.222)" fill="#09f"/>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="312.408" height="5.44" transform="translate(43.873 409.039)" fill="#e6e6e6"/>
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="312.102" height="5.44" transform="translate(43.873 427.857)" fill="#e6e6e6"/>
+      <path id="Path_1160" data-name="Path 1160" d="M394.181,0H0V129.4H14.931v33.844L48.775,129.4H394.181Z" fill="#ccc"/>
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="372.282" height="103.522" transform="translate(10.95 12.601)" fill="#fff"/>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="179.245" height="5.44" transform="translate(43.873 43.821)" fill="#09f"/>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="312.408" height="5.44" transform="translate(43.873 62.638)" fill="#e6e6e6"/>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="312.102" height="5.44" transform="translate(43.873 81.456)" fill="#e6e6e6"/>
+    </g>
+    <g id="humaaans_standing-19" data-name="humaaans/standing-19" transform="translate(1180.98 206.977)">
+      <g id="humaaan-3" transform="translate(0)">
+        <g id="Head_Front_Short-Beard" data-name="Head/Front/Short-Beard" transform="matrix(0.966, -0.259, 0.259, 0.966, 113.742, 14.962)">
+          <g id="Head" transform="translate(1.337 2.936)">
+            <path id="Path_5501" data-name="Path 5501" d="M11.018,45.588C4.873,38.439.714,29.678,1.409,19.86c2-28.287,41.73-22.064,49.458-7.787s6.81,50.491-3.178,53.042c-3.983,1.018-12.468-1.475-21.1-6.634l5.42,38.009H0Z" transform="translate(0 0)" fill="#ff9b96" fill-rule="evenodd"/>
+          </g>
+          <path id="Hair" d="M28.334,25.6q1.838,25.372,9.722,25.373c7.885,0,14.576-4.962,18.035-4.962,2.523,0,1.959,3.128.287,5.448-1.379,1.914-8.1,3.758-8.1,6.725s7.064-.5,7.064,1.261c0,2.91-.825,9.552-5.921,9.552-5.158,0-19.946-1.863-22.48-9.45Q24.492,52.2,23.773,29.109a8.138,8.138,0,0,0-.954-.056,7.966,7.966,0,0,0-8,7.931,7.873,7.873,0,0,0,2.41,5.673c-1.851,2.59-3.926,5.3-6.3,8.088C1.992,45.433-4.637,29.884,4.1,14.947,6.51,7.63,11.974,3.721,18.428,1.906A23.405,23.405,0,0,1,33.664.794c8.98.763,17,3.477,19.272,5.089,0,8.427-1.648,10.927-15.719,10.706C33.76,18.4,31.1,21.516,28.334,25.6Z" fill="#191847" fill-rule="evenodd"/>
+        </g>
+        <g id="Bottom_Standing_Baggy-Pants" data-name="Bottom/Standing/Baggy-Pants" transform="translate(0 218.305)">
+          <path id="Leg" d="M145.152,0l65.454,165.027,43.9,139.517h17.335L204.728,0Z" transform="translate(10.666)" fill="#ff9b96" fill-rule="evenodd"/>
+          <path id="Leg-2" data-name="Leg" d="M157.839,0c-.7,57.992-10.862,136.067-12.486,139.683Q143.73,143.3,33.229,231.622l11.94,12.729q130.381-75.729,136.414-85.828C187.616,148.423,207.259,55.479,223.03,0Z" transform="translate(-15.202)" fill="#ff9b96" fill-rule="evenodd"/>
+          <g id="Accessories_Shoe_Flat-Sneaker" data-name="Accessories/Shoe/Flat-Sneaker" transform="matrix(0.643, 0.766, -0.766, 0.643, 21.114, 220.43)">
+            <path id="shoe" d="M2.238,8.095Q0,14.069,0,17.035A66.917,66.917,0,0,0,1.2,27.562H76.418Q79.35,17.87,73.033,17.1t-10.5-1.4L27.578.116a1.334,1.334,0,0,0-1.761.675L25.8.826,23.555,6.277q-5.848,2.728-9.5,2.728-2.97,0-8.2-2.4h0A2.667,2.667,0,0,0,2.311,7.919Q2.271,8.005,2.238,8.095Z" transform="translate(0 0)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <g id="Accessories_Shoe_Flat-Sneaker-2" data-name="Accessories/Shoe/Flat-Sneaker" transform="translate(255.837 290.138)">
+            <path id="shoe-2" data-name="shoe" d="M3.321,29.036q-2.238,5.974-2.238,8.94A66.917,66.917,0,0,0,2.285,48.5H77.5q2.932-9.693-3.385-10.466t-10.5-1.4L28.662,21.057a1.334,1.334,0,0,0-1.761.675l-.015.035-2.247,5.451q-5.848,2.728-9.5,2.728-2.97,0-8.2-2.4h0A2.667,2.667,0,0,0,3.394,28.86Q3.355,28.946,3.321,29.036Z" transform="translate(-1.083 -20.941)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <path id="Pant" d="M190.751,290.173l82.421-8.911L212.089,0H138.267Z" transform="translate(9.075 0)" fill="#69a1ac" fill-rule="evenodd"/>
+          <path id="Pant-2" data-name="Pant" d="M47.077,211.088l54.063,63.746q85.415-92.93,99.6-121.273T226.228,0H143.119q-6.181,110.161-8.332,115.287T47.077,211.088Z" transform="translate(-12.001)" fill="#89c5cc" fill-rule="evenodd"/>
+        </g>
+        <g id="Body_Hoodie" data-name="Body/Hoodie" transform="translate(30.155 98.877) rotate(-10)">
+          <path id="Skin" d="M208.863,0,251.4,31.084q17.305,4.646,28.917,11.563c1.829,1.657,4.039,5.016-3.544,4.434s-15.586-.851-16.632,1.724,3.543,5.651,1.428,9.124q-2.116,3.474-19.986-17.415L199.459,23.131ZM45.535,1.073l27.868.11Q47.593,84.095,45.535,89.167c-3.086,7.611,3.444,19.2,6.237,25.428-9.1,4.05-8.126-10.947-19.6-5.636-10.472,4.848-18.438,13.632-30.538,6.2-1.487-.913-3.118-4.352.821-7.04,9.812-6.695,23.952-18.413,25.863-22.27Q32.227,77.964,45.535,1.073Z" transform="translate(0 127.028)" fill="#ff9b96" fill-rule="evenodd"/>
+          <path id="Coat-Back" d="M0,2.966,11.316,0c45.828,32.91,69.493,101.765,125,134.481L125.1,151.091C33.486,147.855,3.51,63.965,0,2.966Z" transform="translate(124.99 8.784) rotate(5)" fill="#e87613" fill-rule="evenodd"/>
+          <path id="Shirt" d="M0,151.279H102.034c4.662,0,3.784-6.7,3.11-10.079C97.365,102.185,67,60.129,67,4.592L37.57,0C13.226,38.959,4.807,86.925,0,151.279Z" transform="translate(74.463 4.662)" fill="#fff" fill-rule="evenodd"/>
+          <path id="Coat-Front" d="M47.673,42.957Q41.261,41.123,37.518,34.4C26.761,15.087,30.646,4.453,42.142.957s21.749,3.7,40.064,3.7a18.522,18.522,0,0,1,2.738.186l9.214.523Q133.809,139.1,116.028,183.809H35.72a271.9,271.9,0,0,1-13.66,27.866H.178Q-2.911,112.283,47.673,42.957Z" transform="translate(27.61 0)" fill="#ff9b21" fill-rule="evenodd"/>
+          <path id="Shade" d="M17.488,0Q21.275,31.543,29.8,45.785H0Q8.325,26.467,17.488,0Z" transform="translate(63.33 138.023)" fill="rgba(0,0,0,0.1)" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

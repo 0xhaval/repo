@@ -1,0 +1,134 @@
+/* global roles */
+.back-img {
+  background-image: url(../img/Layer\ 2.svg);
+  background-size: 95%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.holder {
+  height: 90vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.main-card {
+  height: 600px;
+  border-radius: var(--card-radios);
+  -webkit-border-radius: var(--card-radios);
+  -moz-border-radius: var(--card-radios);
+  -ms-border-radius: var(--card-radios);
+  -o-border-radius: var(--card-radios);
+  background-color: var(--white-color);
+}
+.holder .main-card h2,
+.form-label,
+label {
+  color: #000;
+}
+.holder .main-card h2 {
+  font-size: 35px;
+  line-height: inherit;
+  text-align: center;
+  font-weight: normal;
+  margin-top: var(--card-head-margin);
+  margin-bottom: var(--card-head-margin);
+}
+.holder .main-card form {
+  width: 90%;
+  margin: auto;
+}
+.holder .main-card form button {
+  color: var(--white-color);
+  background-color: var(--main-Bg-color);
+  width: 100%;
+  margin-top: 50px;
+}
+.main-card form button,
+.main-card form input {
+  border-radius: var(--input-btn-radios);
+  -webkit-border-radius: var(--input-btn-radios);
+  -moz-border-radius: var(--input-btn-radios);
+  -ms-border-radius: var(--input-btn-radios);
+  -o-border-radius: var(--input-btn-radios);
+}
+.main-card form button:hover {
+  color: var(--white-color);
+  background-color: var(--bt-color);
+  transition: 0.5s;
+}
+/* global roles */
+/* forgetpassword part  */
+.forgetpass {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 50%;
+}
+/* forgetpassword part  */
+/* login scoial media part  */
+.social-login {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  font-size: 35px;
+  color: #2d6eff;
+}
+/* login scoial media part  */
+/* new password and code confirm password part */
+.card-img {
+  display: block;
+  margin: auto;
+  width: 60px;
+  height: 60px;
+  margin-bottom: 50px;
+}
+/* new password and code confirm password part */
+/* Small devices max-width */
+@media (max-width: 576px) {
+  .main-card {
+    width: 90%;
+  }
+}
+/* Small devices max-width */
+/* Small devices main-width */
+@media (min-width: 576px) {
+  .main-card {
+    width: 410px;
+  }
+}
+/* Small devices main-width */
+/*  Medium  devices such as ipad and tablet  */
+@media (min-width: 768px) {
+  .main-card {
+    width: 410px;
+  }
+}
+/*  larg and X-Large  devices  */
+@media (min-width: 1200px) {
+  .card-head {
+    font-size: 40px;
+  }
+  .form-syle {
+    width: 90%;
+  }
+  .form-label {
+    font-size: 16px;
+  }
+  .form-control {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .btn {
+    line-height: 1.5;
+    font-size: 18px;
+  }
+  .social-login {
+    margin-top: 14px;
+    font-size: 32px;
+  }
+}

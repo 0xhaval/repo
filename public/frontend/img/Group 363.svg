@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="323.348" height="79.474" viewBox="0 0 323.348 79.474">
+  <g id="Group_363" data-name="Group 363" transform="translate(198 -889.007)">
+    <path id="Path_5511" data-name="Path 5511" d="M368.767,433.834H129.147A42.793,42.793,0,0,1,99.623,422.21,38.806,38.806,0,0,1,87.39,394.1h0a38.807,38.807,0,0,1,12.233-28.113,42.794,42.794,0,0,1,29.524-11.624H368.981c23.045,0,41.733,17.784,41.757,39.737h0a38.856,38.856,0,0,1-12.321,28.173,42.851,42.851,0,0,1-29.65,11.564Z" transform="translate(-285.39 534.647)" fill="#fff"/>
+    <g id="google-play" transform="translate(-165.798 899.007)">
+      <path id="Path_5503" data-name="Path 5503" d="M39.261,21.012,0,0V59.766L40.637,38.018l15.2-8.135Zm0,0" transform="translate(0)" fill="#00d7df"/>
+      <path id="Path_5504" data-name="Path 5504" d="M228.374,188.872,212.233,197.5l-10.709-8.624L211.8,180Zm0,0" transform="translate(-172.534 -158.988)" fill="#fdbf00"/>
+      <path id="Path_5505" data-name="Path 5505" d="M39.7,264.659,0,285.914v-4.874l28.979-25.006Zm0,0" transform="translate(0 -226.148)" fill="#ff0059"/>
+      <path id="Path_5506" data-name="Path 5506" d="M0,0,39.261,21.012,28.983,29.886,0,5.191ZM0,0" transform="translate(0)" fill="#9bdd39"/>
+      <path id="Path_5507" data-name="Path 5507" d="M0,44.469l28.983,24.7L0,94.171Zm0,0" transform="translate(0 -39.278)" fill="#00d7df"/>
+      <path id="Path_5508" data-name="Path 5508" d="M39.7,264.659,0,285.914v-4.874l28.979-25.006Zm0,0" transform="translate(0 -226.148)" fill="#d20041"/>
+      <path id="Path_5509" data-name="Path 5509" d="M228.5,256.25H201.738l10.678,8.6Zm0,0" transform="translate(-172.718 -226.338)" fill="#ff9100"/>
+      <path id="Path_5510" data-name="Path 5510" d="M0,281.23l28.952-24.98H0Zm0,0" transform="translate(0 -226.338)" fill="#00aadf"/>
+    </g>
+    <text id="Google_Play" data-name="Google Play" transform="translate(-102 940.007)" fill="#2d2d2d" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Google Play</tspan></text>
+  </g>
+</svg>

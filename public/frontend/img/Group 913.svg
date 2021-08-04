@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375.401" height="321.772" viewBox="0 0 375.401 321.772">
+  <g id="Group_913" data-name="Group 913" transform="translate(-145.5 -485.126)">
+    <path id="Icon_ionic-md-git-network" data-name="Icon ionic-md-git-network" d="M321.772,53.629a53.629,53.629,0,1,0-80.443,46.422v44.244l-80.443,40.222L80.443,144.295V100.051a53.629,53.629,0,1,0-53.629,0v77.426l107.257,53.629V275.35a53.629,53.629,0,1,0,53.629,0V231.106l107.257-53.629V100.051A53.734,53.734,0,0,0,321.772,53.629ZM53.629,20.111A33.518,33.518,0,1,1,20.111,53.629,33.509,33.509,0,0,1,53.629,20.111ZM160.886,355.29A33.518,33.518,0,1,1,194.4,321.772,33.509,33.509,0,0,1,160.886,355.29ZM268.144,87.147a33.518,33.518,0,1,1,33.518-33.518A33.509,33.509,0,0,1,268.144,87.147Z" transform="translate(520.901 485.126) rotate(90)" fill="#fff"/>
+    <ellipse id="Ellipse_348" data-name="Ellipse 348" cx="30.837" cy="29.295" rx="30.837" ry="29.295" transform="translate(436.906 509.406)" fill="#f9a826"/>
+    <ellipse id="Ellipse_349" data-name="Ellipse 349" cx="30.837" cy="29.295" rx="30.837" ry="29.295" transform="translate(168.627 617.334)" fill="#f9a826"/>
+    <ellipse id="Ellipse_350" data-name="Ellipse 350" cx="30.837" cy="29.295" rx="30.837" ry="29.295" transform="translate(436.906 725.263)" fill="#f9a826"/>
+  </g>
+</svg>

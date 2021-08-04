@@ -1,6 +1,10 @@
 @extends('layouts.app')
 @section('content')
+<link rel="stylesheet" href="{{ asset('frontend/css/fourm.css') }}" />
+
 <div class="container">
+<h2 class="my-4">Update a Discussion</h2>
+
     <div class="card o-hidden border-0 shadow-lg my-5">
         <div class="card-body p-0">
             <!-- Nested Row within Card Body -->
@@ -29,6 +33,7 @@
                             @endif
                             <div class="form-group row">
                                 <div class="col-sm-12 mb-3 mb-sm-0">
+                                    <label for="">Discussion Title</label>
                                     <input type="text" class="form-control" id="exampleFirstName"
                                         placeholder="Title" value="{{ $discussion->title }}" name="title">
                                 </div>
@@ -46,13 +51,14 @@
 
                             <div class="form-group row">
                                 <div class="col-sm-12 mb-3 mb-sm-0">
+                                    <label for="">Discussion Content</label>
                                     <textarea name="content" class="form-control" cols="30" rows="10">
                                         {{ $discussion->content }}
                                     </textarea>
                                 </div>
                             </div>
                             <div class="form-group">
-                                <input type="submit" class="form-control  btn btn-primary  btn-block"
+                                <input type="submit" class="form-control  bg-primary text-white  btn-block"
                                  value="Update">
                             </div>
                             <hr>

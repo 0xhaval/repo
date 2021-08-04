@@ -1,0 +1,92 @@
+/* mobile first desgin  */
+/* Start of team member  */
+.container .cards {
+  background: none;
+  border: none;
+}
+.cards img {
+  width: 100%;
+}
+.cards .card-body h3,
+.cards .card-body p {
+  color: var(--white-color);
+  text-align: center;
+}
+.cards .card-body h3 {
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.cards .card-body p {
+  font-size: var(--main-f-size);
+}
+/* Start  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .center-cards {
+    justify-content: center;
+  }
+  .cards .card-body h3 {
+    font-size: 24px;
+  }
+  .cards .card-body p {
+    font-size: 16px;
+  }
+}
+/* End  Small devices (landscape phones, 576px and up) */
+/* Start Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .full-header,
+  .full-header .container .content {
+    height: 280px;
+  }
+  .full-header .container .content {
+    flex-direction: row;
+  }
+  .container .content div h2,
+  .container .content div p {
+    text-align: left;
+  }
+  .cards .card-body h3 {
+    font-size: 21px;
+    margin-top: 0px;
+  }
+  .cards .cards-body p {
+    font-size: 14px;
+  }
+}
+/* End Medium devices (tablets, 768px and up) */
+/* Start Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .full-header .container .content div h2 {
+    font-size: 80px;
+  }
+  .full-header .container .content img {
+    width: 360px;
+  }
+  .container .cards {
+    width: calc(85% / 3);
+  }
+  .cards img {
+    width: 85%;
+    display: block;
+    margin: auto;
+  }
+  .cards .cards-body h3 {
+    font-size: 26px;
+  }
+}
+/* End Large devices (desktops, 992px and up) */
+/* Strat X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .full-header .container .content img {
+    width: 420px;
+  }
+  .cards .cards-body h3 {
+    font-size: 30px;
+  }
+  .cards .cards-body p {
+    font-size: 18px;
+  }
+}
+/* End X-Large devices (large desktops, 1200px and up) */
